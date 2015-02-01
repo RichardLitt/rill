@@ -10,7 +10,7 @@ Stream &amp; git based time management
 ##Concept
 
 ###Time stream
-Time itself can be thought of as a stream. A span of time can be thought of as two discrete data points in this stream. We can give labels to this span of time. This can be thought of like so: 
+Time itself can be thought of as infinite, discrete points. A span of time can be thought of as two discrete data points in this stream. We can give labels to this span of time. 
 
 ```js
 {
