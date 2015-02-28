@@ -1,0 +1,14 @@
+{
+	"tasks": [
+		{
+			"task": "Buy a notebook",
+			"date": "2015-02-27",
+			"status": "closed",
+		},
+		{
+			"task": "Make an entry",
+			"date": "2015-02-27",
+			"status": "open",
+		}
+	]
+}
