@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/RichardLitt/rill/issues"
   },
-  "homepage": "https://github.com/RichardLitt/rill"
+  "homepage": "https://github.com/RichardLitt/rill",
+  "dependencies": {
+    "gen-run": "^0.1.2",
+    "minimist": "^1.1.0",
+    "moment": "^2.9.0"
+  }
 }
