@@ -1,6 +1,8 @@
 rill
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/rill.svg)](https://greenkeeper.io/)
+
 Stream &amp; git based time management
 
 >I see my life go drifting like a river
